@@ -1,0 +1,22 @@
+.addBtn{  
+  margin-left: 30% !important;
+  margin-top: 10px !important;
+  align-content: center !important;
+  font-size: medium !important;
+  font-weight: 700 !important;
+  background-color: rgb(89, 155, 48) !important;
+  color: aliceblue !important;
+  border-width: thick !important;
+  width: 40% !important;
+}
+
+.Title {
+  box-sizing: border-box;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  padding: 1em;  
+  background-color: rgb(192, 45, 26);
+  color: #fff;
+}
